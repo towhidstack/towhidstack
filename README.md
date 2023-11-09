@@ -41,7 +41,7 @@ Experienced in full-stack development using technologies like NextJS to create s
 
 
 
-- 👨‍💻 All of my projects are available at [towhid-portfolio.vercel.app](towhid-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [towhid-portfolio.vercel.app](towhidstack.vercel.app)
 
 - 💬 Ask me about **ReactJs, NextJs, WordPress, etc**
 
